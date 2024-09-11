@@ -1,0 +1,23 @@
+# Node.js specific
+node_modules/
+npm-debug.log
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Editor specific
+*.swp
+*.bak
+*.tmp
+*.log
+*.sync
+*.old
+
+# Build artifacts
+build/
+dist/
+
+# Environment variables
+.env
+.env.*
